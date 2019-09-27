@@ -5,7 +5,7 @@ using_include(array, element)
 end
 
 def using_sort(array)
-expect=["wow","I","am","really","learning","arrays!"]
+ expect=["wow","I","am","really","learning","arrays!"]
 expect.
 
 end
