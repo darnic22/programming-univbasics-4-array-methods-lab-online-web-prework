@@ -20,7 +20,8 @@ def using_first(array)
 endow
 
 def using_last(array)
-
+  expect=["wow","I","am","really","learning","arrays!"]
+  expect.last
 end
 
 def using_size(array)
