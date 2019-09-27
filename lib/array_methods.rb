@@ -7,11 +7,11 @@ end
 def using_sort(array)
  expect=["wow","I","am","really","learning","arrays!"]
  expect.sort
-
 end
 
 def using_reverse(array)
-
+ expect=["wow","I","am","really","learning","arrays!"]
+ 
 end
 
 def using_first(array)
