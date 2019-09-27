@@ -25,5 +25,6 @@ def using_last(array)
 end
 
 def using_size(array)
-expect=["wow","I","am","really","learning","arrays!"]
+ expect=["wow","I","am","really","learning","arrays!"]
+ expect.size
 end
