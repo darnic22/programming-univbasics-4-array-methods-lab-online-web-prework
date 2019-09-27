@@ -2,8 +2,8 @@ using_include(array, element)
  expect=["wow","I","am","really","learning","arrays!"]
  expect.include?("wow")
  expect.include?("Tardis")
- 
 end
+
 def using_sort(array)
 
 end
