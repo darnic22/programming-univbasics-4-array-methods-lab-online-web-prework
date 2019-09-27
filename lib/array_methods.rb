@@ -11,7 +11,7 @@ end
 
 def using_reverse(array)
  expect=["wow","I","am","really","learning","arrays!"]
- 
+ expect.reverse
 end
 
 def using_first(array)
