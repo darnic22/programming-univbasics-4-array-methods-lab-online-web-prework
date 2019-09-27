@@ -16,7 +16,7 @@ end
 
 def using_first(array)
  expect=["wow","I","am","really","learning","arrays!"]
- expect.
+ expect.first
 endow
 
 def using_last(array)
