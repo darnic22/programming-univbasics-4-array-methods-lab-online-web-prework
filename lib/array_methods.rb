@@ -6,7 +6,7 @@ end
 
 def using_sort(array)
  expect=["wow","I","am","really","learning","arrays!"]
-expect.
+ expect.
 
 end
 
